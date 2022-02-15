@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a095625b-a4a6-9620-ee6a-64462da97a84
 ---
@@ -37,7 +39,7 @@ Course Overview
 
 Historically, number theory has often been separated into algebraic and analytic tracks, but we will not make such a sharp distinction. Indeed, one of the central themes of modern number theory is the intimate connection between its algebraic and analytic components; these connections lie at the heart of many of recent breakthoughs and current programs of research, including the modularity theorem, the Sato-Tate theorem, the Riemann hypothesis, the Birch and Swinnerton-Dyer conjecture, and the Langlands program.
 
-Having said that, number theory is, at its heart, the study of numbers. Thus our starting point will be the integer ring Z, its field of fractions Q, and the various completions and algebraic extensions of Q. This means we will initially cover many of the standard topics in algebraic number theory, including: Dedekind domains, decomposition of prime ideals, local fields, ramification, the discriminant and different, ideal class groups, and Dirichlet's unit theorm. We will spend roughly the first half of the semester on these topics, and then move on to some closely related analytic topics, including zeta functions and _L_\-functions, the prime number theorem, primes in arithmetic progressions, the analytic class number formula, and the Chebotarev density theorem. We will also present the main theorems of local and global class field theory (one of the crowning achievements of early 20th\-century number theory), but we will only have time to cover a few parts of the proofs.
+Having said that, number theory is, at its heart, the study of numbers. Thus our starting point will be the integer ring Z, its field of fractions Q, and the various completions and algebraic extensions of Q. This means we will initially cover many of the standard topics in algebraic number theory, including: Dedekind domains, decomposition of prime ideals, local fields, ramification, the discriminant and different, ideal class groups, and Dirichlet's unit theorm. We will spend roughly the first half of the semester on these topics, and then move on to some closely related analytic topics, including zeta functions and _L_\-functions, the prime number theorem, primes in arithmetic progressions, the analytic class number formula, and the Chebotarev density theorem. We will also present the main theorems of local and global class field theory (one of the crowning achievements of early 20{{< sup "th" >}}\-century number theory), but we will only have time to cover a few parts of the proofs.
 
 Textbooks and Lecture Notes
 ---------------------------
