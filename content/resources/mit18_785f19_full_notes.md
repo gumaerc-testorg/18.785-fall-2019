@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-785-number-theory-i-fall-2019/ece4f2c60eaf010b4833eb29a3da51f6_MIT18_785F19_full_notes.pdf
+file: /courses/18-785-number-theory-i-fall-2019/ece4f2c60eaf010b4833eb29a3da51f6_MIT18_785F19_full_notes.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

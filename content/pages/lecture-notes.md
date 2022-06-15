@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: 0cc41457-83fc-de21-f646-f683066b881f
 ---
 
-The complete lecture notes ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Number Theory I_ (PDF - 8.4MB)]({{< baseurl >}}/resources/mit18_785f19_full_notes) can be used as the online textbook for this course.
+The complete lecture notes {{% resource_link ece4f2c6-0eaf-010b-4833-eb29a3da51f6 "_Number Theory I_ (PDF - 8.4MB)" %}} can be used as the online textbook for this course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Absolute values and discrete valuations (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec1)
+{{% resource_link f5f1eb0a-98dd-4a91-5cd9-f532daa104f9 "Absolute values and discrete valuations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Localization and Dedekind domains (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec2)
+{{% resource_link 32db2c3a-76da-54bb-eb5e-6ef8b63b1dda "Localization and Dedekind domains (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Properties of Dedekind domains, ideal class groups, factorization of ideals (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec3)
+{{% resource_link d0f8d7af-575f-61f7-40dd-413d04922be7 "Properties of Dedekind domains, ideal class groups, factorization of ideals (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Étale algebras, norm and trace (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec4)
+{{% resource_link 29f259a6-31dc-111a-8af6-262f1d0e6459 "Étale algebras, norm and trace (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dedekind extensions (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec5)
+{{% resource_link 65b8c471-e148-9085-9327-91e856996f85 "Dedekind extensions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ideal norms and the Dedekind-Kummer theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec6)
+{{% resource_link 76ca292c-1eda-918d-a76c-88bdbc1c91dd "Ideal norms and the Dedekind-Kummer theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Galois extensions, Frobenius elements, and the Artin map (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec7)
+{{% resource_link ebb53b49-3a88-75c1-caa4-15c8f9934f98 "Galois extensions, Frobenius elements, and the Artin map (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Complete fields and valuation rings (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec8)
+{{% resource_link dcd7fdcd-e66e-cd28-c7ea-36286c2458fd "Complete fields and valuation rings (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Local fields and Hensel's lemmas (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec9)
+{{% resource_link 35c7c28c-23cc-c5db-d953-71ebeb5c68ea "Local fields and Hensel's lemmas (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Extensions of complete DVRs (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec10)
+{{% resource_link f9e9b13d-edd3-023d-7c84-6b9f244660a1 "Extensions of complete DVRs (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Totally ramified extensions and Krasner's lemma (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec11)
+{{% resource_link 0a500ab9-eed3-45c6-025a-aac11212998d "Totally ramified extensions and Krasner's lemma (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +127,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The different and the discriminant (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec12)
+{{% resource_link 5df5b394-db56-e917-3e41-9b8a589f172a "The different and the discriminant (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Global fields and the product formula (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec13)
+{{% resource_link 6f519c7d-75da-9ab2-1d94-b9e7afa04eb1 "Global fields and the product formula (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +145,7 @@ TOPICS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The geometry of numbers (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec14)
+{{% resource_link ed75e281-afd0-b84d-0d24-82d7eb797301 "The geometry of numbers (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ TOPICS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dirichlet's unit theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec15)
+{{% resource_link 7b7a2f6a-aef4-009d-22b2-460d4c2b0121 "Dirichlet's unit theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +163,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Riemann's zeta function and the prime number theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec16)
+{{% resource_link 94c94522-0abb-2bb9-3659-ada40b6e6869 "Riemann's zeta function and the prime number theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ TOPICS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The functional equation (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec17)
+{{% resource_link bfb43b4c-a19d-7fd3-d2bd-c250072b7dc5 "The functional equation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +181,7 @@ TOPICS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dirichlet _L_\-functions and primes in arithmetic progressions (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec18)
+{{% resource_link b204200d-d24e-035a-1156-9ce2aab7407b "Dirichlet _L_\-functions and primes in arithmetic progressions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +190,7 @@ TOPICS
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The analytic class number formula (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec19)
+{{% resource_link "78686427-92b4-8a75-0c9b-c92e10974839" "The analytic class number formula (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +199,7 @@ TOPICS
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Kronecker-Weber theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec20)
+{{% resource_link 8f6cd3a8-d092-d4cb-5740-a5f4a1b0bc34 "The Kronecker-Weber theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +208,7 @@ TOPICS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Class field theory: ray class groups and ray class fields (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec21)
+{{% resource_link 3346af70-2b6b-de59-3da1-580af24abe7d "Class field theory: ray class groups and ray class fields (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +217,7 @@ TOPICS
 22
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The main theorems of global class field theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec22)
+{{% resource_link 46805a03-2963-907b-8f1e-f098896a1f3e "The main theorems of global class field theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +226,7 @@ TOPICS
 23
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Tate cohomology (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec23)
+{{% resource_link 841f8050-93e2-fc38-c2ad-67de8dfea32b "Tate cohomology (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +235,7 @@ TOPICS
 24
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Artin reciprocity in the unramified case (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec24)
+{{% resource_link 31915dd2-0f5d-a1f2-50fd-6d1d99269e8c "Artin reciprocity in the unramified case (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -243,7 +244,7 @@ TOPICS
 25
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The ring of adeles, strong approximation (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec25)
+{{% resource_link 23290268-86d8-1598-9dcf-f1879aaa6497 "The ring of adeles, strong approximation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +253,7 @@ TOPICS
 26
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The idele group, profinite groups, infinite Galois theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec26)
+{{% resource_link c4917772-82bf-9588-2167-e2ed9c98520b "The idele group, profinite groups, infinite Galois theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +262,7 @@ TOPICS
 27
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Local class field theory (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec27)
+{{% resource_link 98e0aeef-3983-372d-6733-297d1580d3c4 "Local class field theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +271,7 @@ TOPICS
 28
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Global class field theory and the Chebotarev density theorem (PDF)]({{< baseurl >}}/resources/mit18_785f19_lec28)
+{{% resource_link 8575e317-a033-333a-ee96-0c43e716b3ab "Global class field theory and the Chebotarev density theorem (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

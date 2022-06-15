@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the course's problem sets.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ PROBLEM SETS
 1 and 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset1)
+{{% resource_link cc62dc47-7381-130b-7cc4-42a0e2598ac9 "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ PROBLEM SETS
 3 and 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset2)
+{{% resource_link 99b27210-bc9e-e032-dd67-d8fd3bfffde1 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ PROBLEM SETS
 5, 6, and 7
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset3)
+﻿{{% resource_link d93f83b4-f1cc-4aec-7ea0-da881e0efbff "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ PROBLEM SETS
 6, 7, and 8
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset4)
+﻿{{% resource_link d7b32606-4417-5e32-1a73-290355e5cca0 "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ PROBLEM SETS
 9, 10, and 11
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset5)
+﻿{{% resource_link dbdb9515-b131-e863-d35d-0d77a802b63f "Problem Set 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ PROBLEM SETS
 11, 12, 13, and 14
 {{< tdclose >}}
 {{< tdopen >}}
- [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset6)
+ {{% resource_link d6eaac75-1717-b630-00de-6a3164e79779 "Problem Set 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ PROBLEM SETS
 13, 14, and 15
 {{< tdclose >}}
 {{< tdopen >}}
- [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset7)
+ {{% resource_link 2978f5e1-3f25-7f1f-1c4b-08f3104e4a1a "Problem Set 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ PROBLEM SETS
 16, 17, and 18
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset8)
+﻿{{% resource_link f07e89ce-fc7a-4e83-64bb-0e73fb1d0dca "Problem Set 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ PROBLEM SETS
 18, 19, and 20
 {{< tdclose >}}
 {{< tdopen >}}
-﻿[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset9)
+﻿{{% resource_link f6513e47-7369-d85f-826b-a6d6e2cb0e27 "Problem Set 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ PROBLEM SETS
 20, 21, 22, and 23
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset10)
+{{% resource_link 1f43593e-176e-d892-503c-a59e48c63a74 "Problem Set 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ PROBLEM SETS
 23, 24, 25, 26, and 27
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit18_785f19_pset11)
+{{% resource_link f8d1393a-d3a8-6fbc-d866-5cad35928521 "Problem Set 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
