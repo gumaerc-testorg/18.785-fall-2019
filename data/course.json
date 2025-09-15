@@ -39,9 +39,10 @@
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "0a87e2bc-7bc8-4fee-92f9-47119c1df35a",
-  "short_id": "18.785-fall-2019",
+  "site_short_id": "18.785-fall-2019",
+  "site_url_path": "courses/18-785-number-theory-i-fall-2019",
   "title": "Course Metadata"
 }
