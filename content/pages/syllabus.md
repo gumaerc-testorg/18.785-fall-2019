@@ -48,43 +48,43 @@ Number theory is a vast subject, and it is good to see it from many different pe
 
 _Suggested Textbooks_
 
- Cassels, John William Scott, and Albrecht Fröhlich, eds. [_Algebraic Number Theory_](https://www.lms.ac.uk/publications/algebraic-number-theory). 2nd edition. London Mathematical Society, 2010. ISBN: 9780950273426. ([errata (PDF)](http://wwwf.imperial.ac.uk/~buzzard/CFerrata.pdf)).
+ Cassels, John William Scott, and Albrecht Fröhlich, eds. {{% resource_link "d3fee425-ebbf-496d-95cd-c748c357acf5" "_Algebraic Number Theory_" %}}. 2nd edition. London Mathematical Society, 2010. ISBN: 9780950273426. ({{% resource_link "e6d01397-0d04-49ae-8373-6750a2b3de95" "errata (PDF)" %}}).
 
-Davenport, Harold. [_Multiplicative Number Theory_](https://link.springer.com/book/10.1007%2F978-1-4757-5927-3). 3rd edition. Springer, 2000. ISBN: 9780387950976.
+Davenport, Harold. {{% resource_link "03289901-2ac4-4ae7-a0e6-16db259f0443" "_Multiplicative Number Theory_" %}}. 3rd edition. Springer, 2000. ISBN: 9780387950976.
 
-Milne, J. S. [_Algebraic Number Theory_](http://www.jmilne.org/math/CourseNotes/ant.html), 2017. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+Milne, J. S. {{% resource_link "c7d3ee24-a294-4ccb-98b4-29eaf8b4e0bd" "_Algebraic Number Theory_" %}}, 2017. Available at {{% resource_link "27bd368c-97f3-40b6-9d8e-4d8cfe236d9c" "J. S. Milne Mathematics Site" %}}.
 
-———. [_Class Field Theory_](http://www.jmilne.org/math/CourseNotes/cft.html), 2013. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+———. {{% resource_link "3a3812ee-b74e-4056-92bd-443da6d38ae9" "_Class Field Theory_" %}}, 2013. Available at {{% resource_link "27bd368c-97f3-40b6-9d8e-4d8cfe236d9c" "J. S. Milne Mathematics Site" %}}.
 
- Lang, Serge. [_Algebraic Number Theory_](https://link.springer.com/book/10.1007%2F978-1-4612-0853-2). 2nd edition. Springer, 2013. ISBN: 9781461269229.
+ Lang, Serge. {{% resource_link "f38f6064-7b1b-48bc-9d74-7bee28fd370a" "_Algebraic Number Theory_" %}}. 2nd edition. Springer, 2013. ISBN: 9781461269229.
 
-Lorenzini, Dino. [_Invitation to Arithmetic Geometry_](https://ebookcentral.proquest.com/lib/mit/detail.action?docID=3114595) (Note: eBook access limited to MIT community.), American Mathematical Society, 1996. ISBN: 9780821802670.
+Lorenzini, Dino. {{% resource_link "303b09ad-4788-4de3-93ae-a34eedbaa00e" "_Invitation to Arithmetic Geometry_" %}} (Note: eBook access limited to MIT community.), American Mathematical Society, 1996. ISBN: 9780821802670.
 
-Manin, Yuri Ivanovic, and Alexei A. Panchishkin. [_Introduction to Modern Number Theory_](https://link.springer.com/book/10.1007/3-540-27692-0). 2nd edition. Springer, 2007. ISBN: 9783540203643.
+Manin, Yuri Ivanovic, and Alexei A. Panchishkin. {{% resource_link "abe51a5b-eb45-457b-b360-77c95e8fe961" "_Introduction to Modern Number Theory_" %}}. 2nd edition. Springer, 2007. ISBN: 9783540203643.
 
-Neukirch, Jürgen. [_Algebraic Number Theory_](https://link.springer.com/book/10.1007/978-3-662-03983-0). Springer, 2010. ISBN: 9783642084737.
+Neukirch, Jürgen. {{% resource_link "b88ffdd1-4775-4d7c-9fac-5e6ec19bf17a" "_Algebraic Number Theory_" %}}. Springer, 2010. ISBN: 9783642084737.
 
-Rosen, Michael. [_Number Theory in Function Fields_](https://link.springer.com/book/10.1007%2F978-1-4757-6046-0). Springer, 2010. ISBN: 9781441929549.
+Rosen, Michael. {{% resource_link "ea8309ea-125c-448f-874d-96bd3bb84d3c" "_Number Theory in Function Fields_" %}}. Springer, 2010. ISBN: 9781441929549.
 
-Serre, Jean-Pierre. [_A Course in Arithmetic_](https://link.springer.com/book/10.1007/978-1-4684-9884-4). Springer, 1973. ISBN: 9780387900414.
+Serre, Jean-Pierre. {{% resource_link "4e3af36a-6a8d-4d01-ad65-b23280522272" "_A Course in Arithmetic_" %}}. Springer, 1973. ISBN: 9780387900414.
 
-———. [_Local Fields_](https://link.springer.com/book/10.1007/978-1-4757-5673-9). Springer, 2013. ISBN: 9781475756753. \[Preview with [Google Books](https://books.google.com/books?id=3LAJCAAAQBAJ&pg=PAfrontcover#v=onepage&q&f=false)\]
+———. {{% resource_link "3aef6528-f42c-4121-92bd-a71c97b258f0" "_Local Fields_" %}}. Springer, 2013. ISBN: 9781475756753. \[Preview with {{% resource_link "0b4dc6a2-78ae-4410-b622-5c9fee3d7e19" "Google Books" %}}\]
 
 As noted above, commutative algebra is a corequisite for this course.
 
-Altman, Allen, and Steven Kleiman. [_A Term of Commutative Algebra_](http://www.centerofmath.org/textbooks/commalgebra/index.html#subject1)_._ Worldwide Center of Mathematics\_,\_ 2013. ISBN: 9780988557215. ([errata](http://web.mit.edu/18.705/www/errata.html)).
+Altman, Allen, and Steven Kleiman. {{% resource_link "2c08de38-2754-4b65-8521-d7cd62e1014c" "_A Term of Commutative Algebra_" %}}_._ Worldwide Center of Mathematics\_,\_ 2013. ISBN: 9780988557215. ({{% resource_link "dadba63c-6fd9-4a33-8873-361aad37480a" "errata" %}}).
 
 _Other Useful Texts_
 
 I can also recommend the following texts, according to taste (Atiyah-MacDonald is an examplar of brevity, while Eisenbud is wonderfully discursive; Matsumura, my personal favorite, is somewhere in between, and I also recommend Milne's primer):
 
-Atiyah, M. F., and I. G. MacDonald. [_Introduction to_ _Commutative Algebra_](https://books.google.com/books/about/Introduction_To_Commutative_Algebra.html?id=HOASFid4x18C). CRC Press, 1994. ISBN: 9780201407518.
+Atiyah, M. F., and I. G. MacDonald. {{% resource_link "de391baa-3c95-438c-b8e7-784753252157" "_Introduction to_ _Commutative Algebra_" %}}. CRC Press, 1994. ISBN: 9780201407518.
 
-Eisenbud, David. [_Commutative Algebra with a View Toward Algebraic Geometry_](https://link.springer.com/book/10.1007/978-1-4612-5350-1). Springer, 2008. ISBN: 9780387942698.
+Eisenbud, David. {{% resource_link "e1530f38-9d50-42b3-abc5-418a7a88124d" "_Commutative Algebra with a View Toward Algebraic Geometry_" %}}. Springer, 2008. ISBN: 9780387942698.
 
-Matsumura, Hideyuki. [_Commutative Ring Theory_](https://www.cambridge.org/core/books/commutative-ring-theory/02819830750568B06C16E6199F3562C1). Cambridge University Press, 1989. ISBN: 9780521367646. \[Preview with [Google Books](https://books.google.com/books?id=yJwNrABugDEC&pg=PAfrontcover#v=onepage&q&f=false)\]
+Matsumura, Hideyuki. {{% resource_link "5c18408f-48c7-48d4-9344-b57c86da322b" "_Commutative Ring Theory_" %}}. Cambridge University Press, 1989. ISBN: 9780521367646. \[Preview with {{% resource_link "797eedc3-ba6c-4173-b6ec-2f0fec2c8df2" "Google Books" %}}\]
 
-Milne, J. S. [_A Primer of Commutative Algebra_ (PDF)](https://www.jmilne.org/math/xnotes/CA.pdf), 2017. Available at [J. S. Milne Mathematics Site](http://www.jmilne.org/math/index.html).
+Milne, J. S. {{% resource_link "c55963a1-13db-4179-8dec-421f54d1f284" "_A Primer of Commutative Algebra_ (PDF)" %}}, 2017. Available at {{% resource_link "27bd368c-97f3-40b6-9d8e-4d8cfe236d9c" "J. S. Milne Mathematics Site" %}}.
 
 ## Problem Sets
 
